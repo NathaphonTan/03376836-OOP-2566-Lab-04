@@ -32,6 +32,7 @@ dotnet build  Lab04_Ex03
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+<img width="960" alt="4 3 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-04/assets/144870609/232ef6ce-96bc-42a7-9039-bce95f1f2793">
 
 5. Run project โดยการใช้คำสั่ง
 
