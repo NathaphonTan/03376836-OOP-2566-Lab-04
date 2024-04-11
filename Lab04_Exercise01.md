@@ -29,6 +29,7 @@ dotnet build  Lab04_Ex01
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+<img width="960" alt="4 1 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-04/assets/144870609/6383f5af-166b-445f-84cd-f1fc31875b16">
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -37,6 +38,7 @@ dotnet run  --project  Lab04_Ex01
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+<img width="960" alt="4 1 2" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-04/assets/144870609/30a1695a-8fe4-43eb-8ab8-9dd121d88182">
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
